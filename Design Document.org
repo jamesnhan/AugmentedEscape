@@ -1,0 +1,99 @@
+#+LaTeX_CLASS: article
+#+LaTeX_HEADER: \usepackage{indentfirst}
+#+OPTIONS: toc:nil
+
+#+TITLE: Augmented Escape
+#+AUTHOR: James Nhan, Matt Koenig, Zackery Lovisa, Thien Le, Yue Zhang
+#+DATE: <2017-02-24 Fri>
+
+\begin{align*}
+   &\textbf{Target Platform}&&\text{: Microsoft HoloLens} \\
+   &\textbf{Target Age}&&\text{: 13+} \\
+   &\textbf{Target Rating}&&\text{: T}
+\end{align*}
+
+\pagebreak
+
+#+TOC: headlines
+
+\pagebreak
+
+* TODO Story
+  A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans andt take them out from inside?
+
+* Characters
+*** TODO Mittens
+    - Mystical cat.
+    - Appears in dire situations to provide help.
+    - Requires the player to answer a simple riddle before willing to provide a hint.
+    - Has a very playful attitude, making light of the player's current situation
+
+*** TODO Former Informants
+    - Authors of letters that provide backstory for situations.
+    - Generic names.
+    - Never met by players.
+    - Exist solely to introduce scenes.
+
+* Core Gameplay
+** TODO Mechanics
+   - Single player.
+   - Puzzle solving.
+   - Room is mapped by the HoloLens and augmented to match a scenario.
+   - 3-4 puzzles placed around the room randomly.
+   - Each puzzle gives a piece of the answer to escaping the current room.
+   - Puzzles will be interactable 3D objects in augmented reality.
+   - Once all puzzles of a room are solved, their answers can be entered into the door (keys, lock code).
+   - Some puzzles and rooms will have random components in order to prevent "trial and error" attempts through the game.
+   - Entering a wrong room answer will result in a *1 minute penalty*.
+   - Players will have *1 hour* to solve all puzzles in all rooms.
+   - Scenarios will contain *3 rooms* each.
+   - All rooms must be completed within the time limit to complete the scenario.
+   - Upon advancing to a new room in the game, the HoloLens will remap the current room the player is in.
+     * The player does not have to change rooms themselves.
+   - Upon successful completion of the scenario, a story prompt will be shown to the player describing the events that follow the escape.
+   - At *50 minutes* remaining, Mittens will appear to give the players a hint in case they're stuck.
+     * If a hint is given, Mittens will disappear and reappear at *40*, *30*, *25*, *15*, and *10* minutes remaining.
+     * Hints will be consistent for each playthrough of the same scenario.
+
+** TODO Goals
+   - Players win the game if they manage to escape the scenario within an hour.
+   - After winning, an expository paragraph will be shown to the player to describe what happens following the escape.
+   - Players lose if time expires.
+   - After losing, an expository paragraph will be shown to the player to describe what happens to them after their escape fails.
+     
+** TODO Hints
+   - Mittens can give the player several types of hints after the player answers a riddle.
+     * *Remove Decoys*: Remove all or some of the decoys in the room.
+     * *Puzzle Explanation*: Explain part of a puzzle to make it easier for the player to solve.
+     * *Answer Location*: Place a glow on an object required for a puzzle.
+
+* Puzzle Types
+** TODO Acrostic
+   Hint words with numbers under each letter that map to a phrase.
+
+** TODO Rope Chain
+   There will be four *20 foot* ropes each with four pegs spaced at different distances apart attached along the rope. Only one rope will have the exact peg separation required to insert each peg into four anchored podiums across the room.
+
+   #+CAPTION: An example of the ropes, pegs, and podiums.
+   #+NAME: fig: PT-RC-001
+   #+ATTR_LaTeX: :float nil
+   [[./img/pt-rc-001.png]]
+
+** TODO Block and Key
+    There will be six *1 foot* cubes spread across the room. The player will need to place and orient these blocks on a pedestal to create an image by aligning the engravings on each cube. The opposite side of the cube array will then reveal an answer required to escape the room.
+
+** TODO Cryptogram
+    Encrypted messages that need to be put through a cipher in order to be easily read.
+
+** TODO Connect the Dots
+    Images drawn may be of other objects in the room. Different shaped dots (e.g. square vs. circle) will connect to make different images. A key will be placed in the room to indicate which dots make the correct image.
+    
+** TODO Statues/Totems
+    *3-4* statues or obelisks with images need to be positioned in a particular way to unlock an answer. There will be an image depicting how to orient the statues around the room.
+
+* References
+  * [[https://en.wikipedia.org/wiki/Acrostic_(puzzle)][Acrostic]] - Wikipedia entry.
+  * [[https://en.wikipedia.org/wiki/Cryptogram][Cryptogram]] - Wikipedia entry.
+  * [[http://www.bloodandbones.com/ph12sim/types.htm][Puzzle Idea List]] - A list of puzzle ideas.
+  * [[http://www.accelerated-ideas.com/news/uncharted-4-chapter-1-2-puzzle-solution-rotating-balls.aspx][Rotating balls and Symbols]] - A description of the rotating balls and symbols puzzle from Uncharted 4.
+  * [[http://www.gameshampoo.com/magazine/articles/24/uncharted-3-all-puzzle-solutions.html][Uncharted 3 All Puzzles]] - All of the puzzles in Uncharted 3.
