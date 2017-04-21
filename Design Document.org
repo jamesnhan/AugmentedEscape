@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil
 
 #+TITLE: Augmented Escape
-#+AUTHOR: James Nhan, Matt Koenig, Zackery Lovisa, Thien Le, Yue Zhang
+#+AUTHOR: James Nhan, Matt Koenig, Zackery Lovisa, Thien Le
 #+DATE: <2017-02-24 Fri>
 
 \begin{align*}
@@ -19,20 +19,82 @@
 \pagebreak
 
 * TODO Story
-  A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans andt take them out from inside?
+  A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans and take them out from inside?
 
 * Characters
+*** Axshun Jaxxon
+    
+**** Personality
+     Axshun Jaxxon is a rash individual. He is the Leroy Jenkins of Augmented Escape. He uses brute force and brawn over brains. He leaps before he looks. He also loves fried chicken. He may not always get the job done, but at least he's got chicken.
+
+**** Appearance
+     He has big muscles. He stands 6'6", weighs 280 pounds, is bald, has a goatee, and has one metal pauldron over his right shoulder. The pauldron has a dragon embossment on it. He has tan skin from farming all day. He has no shirt. He has firefighter pants with one leg burnt off at the knee. He wears combat boots.
+
+**** Backstory
+     He is a firefighter that farms chickens in his free time because he likes chicken. Axshun Jaxxon receives a call from Bearsford, South Dakota dispatch. He is sent on a rescue mission. After rescuing the baby chicks in the farm house, he is alerted to the presence of a child. The child is trapped in the farm house loft. The fire burns so hot and brightly, that his firefighter pants catch flame, resulting in the scorch makes on his left pantleg. A wooden beam from the farm house falls onto his head. He is knocked out cold. Ten days later, he awakes in a sick and twisted game of escaping /The Company/.
+
+*** Ben Benson
+
+**** Personality
+     Ben Beson is an extremely conservative man born in the secluded areas of Louisiana. He is reserved and quiet. He is cool and calculating. However, when pushed beyond his limits, he is prone to extremely violent outbursts. Whenever possible, Ben Benson will use subterfuge to defeat his enemies. He is the exact opposite of Axshun Jaxxon.
+
+**** Appearance
+     He is a mature, white man that wears button up shirts with sweaters. He near sighted and wears glasses. Fluffy brown hair. He is 5'4" and weighs 120 pounds and has no athletic abilities.
+
+**** Backstory
+     Ben Benson is a Chemistry teacher by trade. In his spare time, he enjoys working at the local car wash. One day, he gets into an argument with his wife, Skylar, over pizza toppings. He gets so angry, he takes their pizza and throws it outside. It lands on their neighbor's house. The next day, a student accidentally mixes the wrong chemicals during the lab and creates mustard gas. This results in an explosion that knocks Ben Benson out. He is taken to the nurse's office. It just so happens that the nurse is an agent of /The Company/. She takes this chance to abduct the genius Chemistry teacher. He wakes up caught in a web of deception and lies. Can he escape the room?
+
+*** Yoki Warrior
+
+**** Personality
+     She is a detective, curious by nature. She is a lone with a serious attitude. She can be insenstive to others' plights. She clean, thorough, detailed oriented, and perfectionist. She has depression because of the extinction of her tribe and the disappearance of her lover. Despite her perfectionst attitude, she despises cyborg technology. She especially hates cyborg technology, as she sees it as an abomination and imperfect.
+
+**** Appearance
+     She has light brown skin and long silky hair She wears traditional Native American clothing. Her hair is black and her eyes are also black. As a young woman, she stands 5'3" and weighs 97 pounds. Due to her cyborg reconstruction, her left arm is made of titanium steel alloys. She has an implanted left eye that can perceive ultraviolet and infrared light.
+
+**** Backstory
+     After single combat with a cyborg bear, she falls unconscious from her grievous wounds. Her noble fighting garnered the attention of the omnipresent /Company/. This prompted them to abduct her into their program. Due to her body being mangled beyond recognition, /The Company/ invested $4 million dollars to rebuild her as cyborg. She is now the thing she hates most: a cyborg.
+
+*** The Company
+
+**** Backstory
+     In 2018, World War III broke out. Nuclear war raged on for 15 years, destroying the vast majority of the planet and decimating the population to the hundreds of thousands. In the aftermath, a reconstructed, cyborg President Nixon gathered the remnants of the Illuminati and the Free Masons. The resulting merger is /The Company/. Biding their time, they gathered influence over the years. Now, in the year 2142, /The Company/ has complete anonymous control over the American world government, granting them free reign over North America.
+
+**** Goals
+     /The Company/ currently olds captive the continent of North America. Their ultimate goal is to overthrow the other two remaining world governments: China, and the Afindican Warlords as well as the rogue rebels in Antarctica: The Nomads.
+
+**** Influence and Power
+     Having complete anonymous control over North America gives them access to unlimited natural resources. Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
+
+*** TODO Afindican Warlords
+
+**** Backstory
+
+**** Goals
+
+**** Influence and Power
+
+*** TODO The Chinese Conglomerate
+
+**** Backstory
+
+**** Goals
+
+**** Influence and Power
+
+*** TODO The Nomads
+
+**** Backstory
+
+**** Goals
+
+**** Influence and Power
+
 *** TODO Mittens
     - Mystical cat.
     - Appears in dire situations to provide help.
     - Requires the player to answer a simple riddle before willing to provide a hint.
     - Has a very playful attitude, making light of the player's current situation
-
-*** TODO Former Informants
-    - Authors of letters that provide backstory for situations.
-    - Generic names.
-    - Never met by players.
-    - Exist solely to introduce scenes.
 
 * Core Gameplay
 ** TODO Mechanics
