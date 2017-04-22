@@ -21,8 +21,14 @@
 * TODO Story
   A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans and take them out from inside?
 
-* Characters
-*** Axshun Jaxxon
+* DONE Characters
+  CLOSED: [2017-04-21 Fri 16:16]
+*** DONE Axshun Jaxxon
+    CLOSED: [2017-04-21 Fri 16:16]
+   #+CAPTION: Axshun Jaxxon
+   #+NAME: fig: axshun-jaxxon
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/axshun-jaxxon.png]]
     
 **** Personality
      Axshun Jaxxon is a rash individual. He is the Leroy Jenkins of Augmented Escape. He uses brute force and brawn over brains. He leaps before he looks. He also loves fried chicken. He may not always get the job done, but at least he's got chicken.
@@ -33,7 +39,12 @@
 **** Backstory
      He is a firefighter that farms chickens in his free time because he likes chicken. Axshun Jaxxon receives a call from Bearsford, South Dakota dispatch. He is sent on a rescue mission. After rescuing the baby chicks in the farm house, he is alerted to the presence of a child. The child is trapped in the farm house loft. The fire burns so hot and brightly, that his firefighter pants catch flame, resulting in the scorch makes on his left pantleg. A wooden beam from the farm house falls onto his head. He is knocked out cold. Ten days later, he awakes in a sick and twisted game of escaping /The Company/.
 
-*** Ben Benson
+*** DONE Ben Benson
+    CLOSED: [2017-04-21 Fri 16:16]
+   #+CAPTION: Ben Benson
+   #+NAME: fig: ben-benson
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/ben-benson.png]]
 
 **** Personality
      Ben Beson is an extremely conservative man born in the secluded areas of Louisiana. He is reserved and quiet. He is cool and calculating. However, when pushed beyond his limits, he is prone to extremely violent outbursts. Whenever possible, Ben Benson will use subterfuge to defeat his enemies. He is the exact opposite of Axshun Jaxxon.
@@ -44,7 +55,12 @@
 **** Backstory
      Ben Benson is a Chemistry teacher by trade. In his spare time, he enjoys working at the local car wash. One day, he gets into an argument with his wife, Skylar, over pizza toppings. He gets so angry, he takes their pizza and throws it outside. It lands on their neighbor's house. The next day, a student accidentally mixes the wrong chemicals during the lab and creates mustard gas. This results in an explosion that knocks Ben Benson out. He is taken to the nurse's office. It just so happens that the nurse is an agent of /The Company/. She takes this chance to abduct the genius Chemistry teacher. He wakes up caught in a web of deception and lies. Can he escape the room?
 
-*** Yoki Warrior
+*** DONE Yoki Warrior
+    CLOSED: [2017-04-21 Fri 16:16]
+   #+CAPTION: Yoki Warrior
+   #+NAME: fig: yoki-warrior
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/yoki-warrior.png]]
 
 **** Personality
      She is a detective, curious by nature. She is a lone with a serious attitude. She can be insenstive to others' plights. She clean, thorough, detailed oriented, and perfectionist. She has depression because of the extinction of her tribe and the disappearance of her lover. Despite her perfectionst attitude, she despises cyborg technology. She especially hates cyborg technology, as she sees it as an abomination and imperfect.
@@ -55,7 +71,12 @@
 **** Backstory
      After single combat with a cyborg bear, she falls unconscious from her grievous wounds. Her noble fighting garnered the attention of the omnipresent /Company/. This prompted them to abduct her into their program. Due to her body being mangled beyond recognition, /The Company/ invested $4 million dollars to rebuild her as cyborg. She is now the thing she hates most: a cyborg.
 
-*** The Company
+*** DONE The Company
+    CLOSED: [2017-04-21 Fri 16:16]
+   #+CAPTION: The Company.
+   #+NAME: fig: the-company
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/the-company.png]]
 
 **** Backstory
      In 2018, World War III broke out. Nuclear war raged on for 15 years, destroying the vast majority of the planet and decimating the population to the hundreds of thousands. In the aftermath, a reconstructed, cyborg President Nixon gathered the remnants of the Illuminati and the Free Masons. The resulting merger is /The Company/. Biding their time, they gathered influence over the years. Now, in the year 2142, /The Company/ has complete anonymous control over the American world government, granting them free reign over North America.
@@ -64,39 +85,81 @@
      /The Company/ currently olds captive the continent of North America. Their ultimate goal is to overthrow the other two remaining world governments: China, and the Afindican Warlords as well as the rogue rebels in Antarctica: The Nomads.
 
 **** Influence and Power
-     Having complete anonymous control over North America gives them access to unlimited natural resources. Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
+     Having complete anonymous control over North America gives them access to unlimited natural resources (but not rare metals). Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
 
-*** TODO Afindican Warlords
-
-**** Backstory
-
-**** Goals
-
-**** Influence and Power
-
-*** TODO The Chinese Conglomerate
+*** DONE Afindican Warlords
+    CLOSED: [2017-04-21 Fri 16:16]
 
 **** Backstory
+     The remnants of the India and Africa have merged into one super-continent. They are the result of the tectonic plate shift after the Araibian Plate was nuked from orbit and sunk into the Earth, the massive heat from the Mantle fused the Indian and African tectonic plates into one massive plate that drifted into the center of the Atlantic Ocean. The result is Afindica. Then, the various warlords in the African tribes banded together to create the Afindican Warlords. The new country is the last place on Earth with natural resources. They are rich in Uranium, Cadmium, and other transition metals. They also have the last chicken farm in the world.
 
 **** Goals
+     Being the combination of Africans and Indians, they are a highly spiritual people that want to live simple and separate lives from the rest of the world. They simply want to be left alone.
 
 **** Influence and Power
+     Seeing as Afindica holds the only chickens and rare metals in the world, they have a strong monopoly on the world economy. The other world powers vie for the favor of the Afrindican Warlords. Thus, while they have little military might, they have total economic control.
 
-*** TODO The Nomads
+*** DONE The Chinese Conglomerate
+    CLOSED: [2017-04-21 Fri 16:16]
 
 **** Backstory
+     Similar to The Company, the Chinese Conglomerate has complete control of the surviving Asian peoples since 2142. Their main activities are bargaining with the Afindian Warlords and engineering robot armies and workers. Because of the destruction of their homeland and the death of the planet, the Chinese Conglomerate seeks to explore a new home on the Moon.
 
 **** Goals
+     The Chinese Conglomerate just wants to leave Earth. There is nothing left for the Asian people. The Moon is the only solace from the desolace of Earth.
 
 **** Influence and Power
+     The Chinese Conglomerate has the world's largest cyborg army. This makes them the country with the strongest military might and scientific technology.
 
-*** TODO Mittens
-    - Mystical cat.
-    - Appears in dire situations to provide help.
-    - Requires the player to answer a simple riddle before willing to provide a hint.
-    - Has a very playful attitude, making light of the player's current situation
+*** DONE The Nomads
+    CLOSED: [2017-04-21 Fri 16:16]
 
-* Core Gameplay
+**** Backstory
+     The Nomads are a rebellion which started in the wake of The Company's rise to power. They wage war on The Company and are the only group in the world that know of their plans. The Nomads commonly use guerilla tactics and subterfuge to slow down The Company's progression. They fly an orange flag with an white phoenix emblem stitched into the center which symbolizes the rebirth of the Earth's civilization and the burning passion of the people who form The Nomads. The Nomads are based in South America, a piece of land untouched by nuclear war. They use stolen stealth boats and ancient drug-smuggling submarines to reach the shores of North America unnoticed; then, they use repurposed retina scanners to identify people who work at The Company.
+
+**** Goals
+     The Nomads want to strike back at The Company for instigating the devastating nuclear war. The Nomads are made up of the group of survivors that were ravaged by The Company. Their sole driving force is to dismantle The Company in pure revenge.
+
+**** Influence and Power
+     Being a relatively small and rogue operation, The Nomads have little political influence, yet they retain massive through knowledge and stealth. While not being able to connect politically with the other world powers, they still are able to conduct trade and avoid the wrath of The Company.
+     
+*** DONE Mittens
+    CLOSED: [2017-04-21 Fri 16:16]
+   #+CAPTION: Mittens, the Alien Cat.
+   #+NAME: fig: mittens
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/mittens.png]]
+
+**** Backstory
+     Mittens is an alien cat that was experimented on in Area 51 under The Company's orders. During an attack on Area 51 by the Nomads, he was released and now resides in the Rocky Mountains. Whenever he gets wind of an abduction by The Company, Mittens will use his telepathic powers to communicate with the abductees to assist them in escaping the clutches of The Company.
+
+**** Goals
+     Mittens wants revenge on The Company for ordering the gruesome imprisonment and the painful torture experiments. His only goal is to destroy The Company. Without his people, he is weak. He aims to take down The Company by empowering The Nomads.
+
+**** Influence and Power
+     Because Mittens is a secret alien, not many know of his existence. Only those in the Nomad council know of Mittens because the Area 51 staff were all killed in The Nomad attack. Still, Mittens has great power, despite his weak influence. He has alien telekinetic and telepathic abilities.
+
+* TODO Core Gameplay
+   #+CAPTION: The game state flow chart.
+   #+NAME: fig: game-flow
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/game-flow.png]]
+
+   #+CAPTION: Main Menu
+   #+NAME: fig: main-menu
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/main-menu-1.jpg]]
+
+   #+CAPTION: Start Menu
+   #+NAME: fig: start-menu
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/start-screen.png]]
+
+   #+CAPTION: Character Select
+   #+NAME: fig: character-select
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/character-select.png]]
+
 ** TODO Mechanics
    - Single player.
    - Puzzle solving.
@@ -129,11 +192,28 @@
      * *Puzzle Explanation*: Explain part of a puzzle to make it easier for the player to solve.
      * *Answer Location*: Place a glow on an object required for a puzzle.
 
-* Puzzle Types
-** TODO Acrostic
-   Hint words with numbers under each letter that map to a phrase.
+* TODO Puzzle Types
+** DONE Acrostic
+   CLOSED: [2017-04-21 Fri 16:16]
+   There will be two pages appearing in the room for this puzzle. The first page contains clue phrases that, when answered, provide a mapping of letters to numbers (See Figure [[fig: acrostic-1]]). The second page has a series of blank spaces and numbers (See Figure [[fig: acrostic-2]]) that make a sentence when the mapping from page 1 is applied (See Figure [[fig: acrostic-3]]). The results of this puzzle will be a number for the key or a hint for another puzzle.
 
-** TODO Rope Chain
+   #+CAPTION: Page 1
+   #+NAME: fig: acrostic-1
+   #+ATTR_LaTeX: :float nil :width 4cm
+   [[./img/acrostic-1.png]]
+
+   #+CAPTION: Page 2
+   #+NAME: fig: acrostic-2
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/acrostic-2.png]]
+
+   #+CAPTION: Filling characters in on second page
+   #+NAME: fig: acrostic-3
+   #+ATTR_LaTeX: :float nil :width 8cm
+   [[./img/acrostic-3.png]]
+
+** DONE Rope Chain
+   CLOSED: [2017-04-21 Fri 16:18]
    There will be four *20 foot* ropes each with four pegs spaced at different distances apart attached along the rope. Only one rope will have the exact peg separation required to insert each peg into four anchored podiums across the room.
 
    #+CAPTION: An example of the ropes, pegs, and podiums.
@@ -151,11 +231,12 @@
     Images drawn may be of other objects in the room. Different shaped dots (e.g. square vs. circle) will connect to make different images. A key will be placed in the room to indicate which dots make the correct image.
     
 ** TODO Statues/Totems
-    *3-4* statues or obelisks with images need to be positioned in a particular way to unlock an answer. There will be an image depicting how to orient the statues around the room.
+   *3-4* statues or obelisks with images need to be positioned in a particular way to unlock an answer. There will be an image, that may or may not be the result of the solution of another puzzle, depicting how to orient the statues around the room.
 
-* References
+* TODO References
   * [[https://en.wikipedia.org/wiki/Acrostic_(puzzle)][Acrostic]] - Wikipedia entry.
   * [[https://en.wikipedia.org/wiki/Cryptogram][Cryptogram]] - Wikipedia entry.
   * [[http://www.bloodandbones.com/ph12sim/types.htm][Puzzle Idea List]] - A list of puzzle ideas.
   * [[http://www.accelerated-ideas.com/news/uncharted-4-chapter-1-2-puzzle-solution-rotating-balls.aspx][Rotating balls and Symbols]] - A description of the rotating balls and symbols puzzle from Uncharted 4.
   * [[http://www.gameshampoo.com/magazine/articles/24/uncharted-3-all-puzzle-solutions.html][Uncharted 3 All Puzzles]] - All of the puzzles in Uncharted 3.
+    
