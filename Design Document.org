@@ -21,10 +21,8 @@
 * TODO Story
   A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans and take them out from inside?
 
-* DONE Characters
-  CLOSED: [2017-04-21 Fri 16:16]
-*** DONE Axshun Jaxxon
-    CLOSED: [2017-04-21 Fri 16:16]
+* Characters
+*** Axshun Jaxxon
    #+CAPTION: Axshun Jaxxon
    #+NAME: fig: axshun-jaxxon
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -39,8 +37,7 @@
 **** Backstory
      He is a firefighter that farms chickens in his free time because he likes chicken. Axshun Jaxxon receives a call from Bearsford, South Dakota dispatch. He is sent on a rescue mission. After rescuing the baby chicks in the farm house, he is alerted to the presence of a child. The child is trapped in the farm house loft. The fire burns so hot and brightly, that his firefighter pants catch flame, resulting in the scorch makes on his left pantleg. A wooden beam from the farm house falls onto his head. He is knocked out cold. Ten days later, he awakes in a sick and twisted game of escaping /The Company/.
 
-*** DONE Ben Benson
-    CLOSED: [2017-04-21 Fri 16:16]
+*** Ben Benson
    #+CAPTION: Ben Benson
    #+NAME: fig: ben-benson
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -55,8 +52,7 @@
 **** Backstory
      Ben Benson is a Chemistry teacher by trade. In his spare time, he enjoys working at the local car wash. One day, he gets into an argument with his wife, Skylar, over pizza toppings. He gets so angry, he takes their pizza and throws it outside. It lands on their neighbor's house. The next day, a student accidentally mixes the wrong chemicals during the lab and creates mustard gas. This results in an explosion that knocks Ben Benson out. He is taken to the nurse's office. It just so happens that the nurse is an agent of /The Company/. She takes this chance to abduct the genius Chemistry teacher. He wakes up caught in a web of deception and lies. Can he escape the room?
 
-*** DONE Yoki Warrior
-    CLOSED: [2017-04-21 Fri 16:16]
+*** Yoki Warrior
    #+CAPTION: Yoki Warrior
    #+NAME: fig: yoki-warrior
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -71,8 +67,7 @@
 **** Backstory
      After single combat with a cyborg bear, she falls unconscious from her grievous wounds. Her noble fighting garnered the attention of the omnipresent /Company/. This prompted them to abduct her into their program. Due to her body being mangled beyond recognition, /The Company/ invested $4 million dollars to rebuild her as cyborg. She is now the thing she hates most: a cyborg.
 
-*** DONE The Company
-    CLOSED: [2017-04-21 Fri 16:16]
+*** The Company
    #+CAPTION: The Company.
    #+NAME: fig: the-company
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -87,8 +82,7 @@
 **** Influence and Power
      Having complete anonymous control over North America gives them access to unlimited natural resources (but not rare metals). Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
 
-*** DONE Afindican Warlords
-    CLOSED: [2017-04-21 Fri 16:16]
+*** Afindican Warlords
 
 **** Backstory
      The remnants of the India and Africa have merged into one super-continent. They are the result of the tectonic plate shift after the Araibian Plate was nuked from orbit and sunk into the Earth, the massive heat from the Mantle fused the Indian and African tectonic plates into one massive plate that drifted into the center of the Atlantic Ocean. The result is Afindica. Then, the various warlords in the African tribes banded together to create the Afindican Warlords. The new country is the last place on Earth with natural resources. They are rich in Uranium, Cadmium, and other transition metals. They also have the last chicken farm in the world.
@@ -99,8 +93,7 @@
 **** Influence and Power
      Seeing as Afindica holds the only chickens and rare metals in the world, they have a strong monopoly on the world economy. The other world powers vie for the favor of the Afrindican Warlords. Thus, while they have little military might, they have total economic control.
 
-*** DONE The Chinese Conglomerate
-    CLOSED: [2017-04-21 Fri 16:16]
+*** The Chinese Conglomerate
 
 **** Backstory
      Similar to The Company, the Chinese Conglomerate has complete control of the surviving Asian peoples since 2142. Their main activities are bargaining with the Afindian Warlords and engineering robot armies and workers. Because of the destruction of their homeland and the death of the planet, the Chinese Conglomerate seeks to explore a new home on the Moon.
@@ -111,8 +104,7 @@
 **** Influence and Power
      The Chinese Conglomerate has the world's largest cyborg army. This makes them the country with the strongest military might and scientific technology.
 
-*** DONE The Nomads
-    CLOSED: [2017-04-21 Fri 16:16]
+*** The Nomads
 
 **** Backstory
      The Nomads are a rebellion which started in the wake of The Company's rise to power. They wage war on The Company and are the only group in the world that know of their plans. The Nomads commonly use guerilla tactics and subterfuge to slow down The Company's progression. They fly an orange flag with an white phoenix emblem stitched into the center which symbolizes the rebirth of the Earth's civilization and the burning passion of the people who form The Nomads. The Nomads are based in South America, a piece of land untouched by nuclear war. They use stolen stealth boats and ancient drug-smuggling submarines to reach the shores of North America unnoticed; then, they use repurposed retina scanners to identify people who work at The Company.
@@ -123,8 +115,7 @@
 **** Influence and Power
      Being a relatively small and rogue operation, The Nomads have little political influence, yet they retain massive through knowledge and stealth. While not being able to connect politically with the other world powers, they still are able to conduct trade and avoid the wrath of The Company.
      
-*** DONE Mittens
-    CLOSED: [2017-04-21 Fri 16:16]
+*** Mittens
    #+CAPTION: Mittens, the Alien Cat.
    #+NAME: fig: mittens
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -193,8 +184,7 @@
      * *Answer Location*: Place a glow on an object required for a puzzle.
 
 * TODO Puzzle Types
-** DONE Acrostic
-   CLOSED: [2017-04-21 Fri 16:16]
+** Acrostic
    There will be two pages appearing in the room for this puzzle. The first page contains clue phrases that, when answered, provide a mapping of letters to numbers (See Figure [[fig: acrostic-1]]). The second page has a series of blank spaces and numbers (See Figure [[fig: acrostic-2]]) that make a sentence when the mapping from page 1 is applied (See Figure [[fig: acrostic-3]]). The results of this puzzle will be a number for the key or a hint for another puzzle.
 
    #+CAPTION: Page 1
@@ -212,8 +202,7 @@
    #+ATTR_LaTeX: :float nil :width 8cm
    [[./img/acrostic-3.png]]
 
-** DONE Rope Chain
-   CLOSED: [2017-04-21 Fri 16:18]
+** Rope Chain
    There will be four *20 foot* ropes each with four pegs spaced at different distances apart attached along the rope. Only one rope will have the exact peg separation required to insert each peg into four anchored podiums across the room.
 
    #+CAPTION: An example of the ropes, pegs, and podiums.
