@@ -141,6 +141,10 @@
    #+ATTR_LaTeX: :float nil :width 8cm
    [[./img/main-menu-1.jpg]]
 
+** TODO Mechanics
+*** Menu System
+    Upon loading the application, the player will be greeted with the start menu shown in Figure [[fig: start-menu]]. There will be a play button that the player can choose to start playing and a quit button. Then, the player will be shown a character select menu as shown in Figure [[fig: character-select]]. On this screen, the player can choose one of three characters: Axshun Jaxxon, Ben Benson, or Yoki Warrior.
+
    #+CAPTION: Start Menu
    #+NAME: fig: start-menu
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -151,25 +155,43 @@
    #+ATTR_LaTeX: :float nil :width 8cm
    [[./img/character-select.png]]
 
-** TODO Mechanics
-   - Single player.
-   - Puzzle solving.
-   - Room is mapped by the HoloLens and augmented to match a scenario.
-   - 3-4 puzzles placed around the room randomly.
-   - Each puzzle gives a piece of the answer to escaping the current room.
-   - Puzzles will be interactable 3D objects in augmented reality.
-   - Once all puzzles of a room are solved, their answers can be entered into the door (keys, lock code).
-   - Some puzzles and rooms will have random components in order to prevent "trial and error" attempts through the game.
-   - Entering a wrong room answer will result in a *1 minute penalty*.
-   - Players will have *1 hour* to solve all puzzles in all rooms.
-   - Scenarios will contain *3 rooms* each.
-   - All rooms must be completed within the time limit to complete the scenario.
-   - Upon advancing to a new room in the game, the HoloLens will remap the current room the player is in.
-     * The player does not have to change rooms themselves.
-   - Upon successful completion of the scenario, a story prompt will be shown to the player describing the events that follow the escape.
-   - At *50 minutes* remaining, Mittens will appear to give the players a hint in case they're stuck.
-     * If a hint is given, Mittens will disappear and reappear at *40*, *30*, *25*, *15*, and *10* minutes remaining.
-     * Hints will be consistent for each playthrough of the same scenario.
+*** Single Player
+   The player will load into a room and be alone except for certain gameplay prompts and the occasional message from Mittens. There will be no multiplayer support.
+
+*** Introduction
+    Upon loading the application, the HoloLens will scan the room and generate scenarios for each of the three characters. The application will not allow players to physically move to different rooms. If the player does, then the application will suspend in a paused state until the player either starts a new game in the new room or returns to the old room.
+
+    After the player selects a character, the respective abduction video will play. This will set up the setting of the game and a reason for why the character is trapped in the scenario. When the player awakens in their room, there will be a glowing note. The note will detail the player's goal to solve puzzles and escape the rooms as well as give a hint towards one of the puzzles in the current room.
+
+**** Axshun Jaxxon
+     If the player chooses Axshun Jaxxon, the abduction video will show Axshun Jaxxon's abduction after saving the child from the burning barn.
+
+**** Ben Benson
+     If the player chooses Ben Benson, the abduction video will show Ben Benson's abduction after the lab explosion.
+
+**** Yoki warrior
+     If the player chooses Yoki Warrior, the abduction video will show Yoki Warrior's abduction after the fight with the cyborg bear.
+
+*** Puzzles
+    A puzzle will have interactable 3D objects in the form of holograms. Puzzles will have some random components in order to prevent "trial and error" attempts. Puzzles may or may not be linked to each other where the first puzzle gives a clue to the second puzzle, and the second puzzle will give two answers. The answers will be a number.
+
+*** Rooms
+    A room will have four puzzles that spawn randomly within and twelve keys that are marked. Each room will also spawn a random number less than 5 of decoys which will be a misleading clue or a puzzle that will have no usable answer. Each room will have two easy puzzles, one medium puzzle, and one hard puzzle. The four puzzles must be solved in order to get four numbers that represents the four keys to use on four locks. Using the correct keys will unlock the door and allow the player to proceed. After solving a room's puzzles, a checkpoint will will be offered. If the player chooses to take a checkpoint, the game will save and pause for continuation later. If the player forgoes the checkpoint, the game will continue without saving. This mechanic will prevent players from seeing the scenario, leaving, and taking out-of-game time to solve puzzles.
+
+*** Scenarios
+   Each character has a scenario procedurally generated per playthrough. Each scenario has three rooms. Each scenario has a time limit of *1 hour* to solve all puzzles and escape all three rooms. In order to complete a scenario, every puzzle must be solved within the time limit. For any given room of the scenario, if the player uses an incorrect key set, there will be a *1 minute penalty*. If the player fails to complete a scenario, a hologram will display a video feed of the expository. 
+
+*** Mittens
+    When the player has been in the game for *10 minutes*, if a puzzle has not been solved, Mittens will appear to give the player a hint in case they're stuck. This is also when Mittens will introduce himself to the player. During this interaction, time will be paused and puzzles will become uninteractable. If a hint is given, Mittens will disappear and reappar every *10 minutes* that a puzzle has not been solved to give a new hint. Hints will be consistent for each playthrough of the same scenario.
+
+*** Expository
+    In each hologram, there will be a model of the character chosen. The character will be shown to meet a gruesome end via randomly generated threats such as cybernetic bears bursting through the walls or the room becoming a trash compactor to squish the player into a cube. If the player completes a scenario within the time limit, a hologram of a Company manager will appear and congratulate the player. The player is then offered a choice to join the Company. If the player joins the company, the character's exposition story plays. If the player refuses, the character's respective world power will have a sleeper agent appear to knock out the manager and help the player character escape. Then, the character will join their respective world power.
+
+     - Axshun Jaxxon will join the Afindican Warlords.
+
+     - Ben Benson will join the Chinese Conglomerate.
+
+     - Yoki Warrior will join the Nomads.
 
 ** TODO Goals
    - Players win the game if they manage to escape the scenario within an hour.
