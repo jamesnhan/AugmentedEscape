@@ -1,5 +1,7 @@
 #+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [12pt]
 #+LaTeX_HEADER: \usepackage{indentfirst}
+#+LaTeX_HEADER: \linespread{1.5}
 #+OPTIONS: toc:nil
 
 #+TITLE: Augmented Escape
@@ -18,7 +20,7 @@
 
 \pagebreak
 
-* TODO Story
+* Story
   A mysterious group known only as /The Company/ is behind a major conspiracy that will lead to world domination, and you know too much about them. You are being hunted, but death is not your destiny. /The Company/ believes anyone can be convinced to join them, and you're no different. They've captured and brough you to a remote location to teach compliance. You will be subjected to various forms of brainwashing and torture techniques. Will you succumb to /The Company/'s will, or will you dash their plans and take them out from inside?
 
 * Characters
@@ -53,6 +55,7 @@
      Ben Benson is a Chemistry teacher by trade. In his spare time, he enjoys working at the local car wash. One day, he gets into an argument with his wife, Skylar, over pizza toppings. He gets so angry, he takes their pizza and throws it outside. It lands on their neighbor's house. The next day, a student accidentally mixes the wrong chemicals during the lab and creates mustard gas. This results in an explosion that knocks Ben Benson out. He is taken to the nurse's office. It just so happens that the nurse is an agent of /The Company/. She takes this chance to abduct the genius Chemistry teacher. He wakes up caught in a web of deception and lies. Can he escape the room?
 
 *** Yoki Warrior
+
    #+CAPTION: Yoki Warrior
    #+NAME: fig: yoki-warrior
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -67,53 +70,60 @@
 **** Backstory
      After single combat with a cyborg bear, she falls unconscious from her grievous wounds. Her noble fighting garnered the attention of the omnipresent /Company/. This prompted them to abduct her into their program. Due to her body being mangled beyond recognition, /The Company/ invested $4 million dollars to rebuild her as cyborg. She is now the thing she hates most: a cyborg.
 
-*** The Company
-   #+CAPTION: The Company.
-   #+NAME: fig: the-company
-   #+ATTR_LaTeX: :float nil :width 8cm
-   [[./img/the-company.png]]
+*** World Powers
+    #+CAPTION: World Power Distribution.
+    #+NAME: fig: world
+    #+ATTR_LaTeX: :float nil :width 10cm
+    [[./img/world.jpg]]
 
-**** Backstory
-     In 2018, World War III broke out. Nuclear war raged on for 15 years, destroying the vast majority of the planet and decimating the population to the hundreds of thousands. In the aftermath, a reconstructed, cyborg President Nixon gathered the remnants of the Illuminati and the Free Masons. The resulting merger is /The Company/. Biding their time, they gathered influence over the years. Now, in the year 2142, /The Company/ has complete anonymous control over the American world government, granting them free reign over North America.
+**** The Company
 
-**** Goals
-     /The Company/ currently olds captive the continent of North America. Their ultimate goal is to overthrow the other two remaining world governments: China, and the Afindican Warlords as well as the rogue rebels in Antarctica: The Nomads.
+     #+CAPTION: The Company.
+     #+NAME: fig: the-company
+     #+ATTR_LaTeX: :float nil :width 4cm
+     [[./img/the-company.png]]
 
-**** Influence and Power
-     Having complete anonymous control over North America gives them access to unlimited natural resources (but not rare metals). Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
+***** Backstory
+      In 2018, World War III broke out. Nuclear war raged on for 15 years, destroying the vast majority of the planet and decimating the population to the hundreds of thousands. In the aftermath, a reconstructed, cyborg President Nixon gathered the remnants of the Illuminati and the Free Masons. The resulting merger is /The Company/. Biding their time, they gathered influence over the years. Now, in the year 2142, /The Company/ has complete anonymous control over the American world government, granting them free reign over North America.
 
-*** Afindican Warlords
+***** Goals
+      /The Company/ currently olds captive the continent of North America. Their ultimate goal is to overthrow the other two remaining world governments: China, and the Afindican Warlords as well as the rogue rebels in Antarctica: The Nomads.
 
-**** Backstory
-     The remnants of the India and Africa have merged into one super-continent. They are the result of the tectonic plate shift after the Araibian Plate was nuked from orbit and sunk into the Earth, the massive heat from the Mantle fused the Indian and African tectonic plates into one massive plate that drifted into the center of the Atlantic Ocean. The result is Afindica. Then, the various warlords in the African tribes banded together to create the Afindican Warlords. The new country is the last place on Earth with natural resources. They are rich in Uranium, Cadmium, and other transition metals. They also have the last chicken farm in the world.
+***** Influence and Power
+      Having complete anonymous control over North America gives them access to unlimited natural resources (but not rare metals). Using their cyborg technology, they have implanted control chips into the newest generation, giving them access to the largest standing army still in existence today. They utilize /The Program/ to recruite the best of the best of the previous generation, such as Axshun Jaxxon, Ben Benson, and Yoki Warrior.
 
-**** Goals
-     Being the combination of Africans and Indians, they are a highly spiritual people that want to live simple and separate lives from the rest of the world. They simply want to be left alone.
+**** Afindican Warlords
+     
+***** Backstory
+      The remnants of the India and Africa have merged into one super-continent. They are the result of the tectonic plate shift after the Araibian Plate was nuked from orbit and sunk into the Earth, the massive heat from the Mantle fused the Indian and African tectonic plates into one massive plate that drifted into the center of the Atlantic Ocean. The result is Afindica. Then, the various warlords in the African tribes banded together to create the Afindican Warlords. The new country is the last place on Earth with natural resources. They are rich in Uranium, Cadmium, and other transition metals. They also have the last chicken farm in the world.
 
-**** Influence and Power
-     Seeing as Afindica holds the only chickens and rare metals in the world, they have a strong monopoly on the world economy. The other world powers vie for the favor of the Afrindican Warlords. Thus, while they have little military might, they have total economic control.
+***** Goals
+      Being the combination of Africans and Indians, they are a highly spiritual people that want to live simple and separate lives from the rest of the world. They simply want to be left alone.
 
-*** The Chinese Conglomerate
+***** Influence and Power
+      Seeing as Afindica holds the only chickens and rare metals in the world, they have a strong monopoly on the world economy. The other world powers vie for the favor of the Afrindican Warlords. Thus, while they have little military might, they have total economic control.
 
-**** Backstory
-     Similar to The Company, the Chinese Conglomerate has complete control of the surviving Asian peoples since 2142. Their main activities are bargaining with the Afindian Warlords and engineering robot armies and workers. Because of the destruction of their homeland and the death of the planet, the Chinese Conglomerate seeks to explore a new home on the Moon.
+**** The Chinese Conglomerate
 
-**** Goals
-     The Chinese Conglomerate just wants to leave Earth. There is nothing left for the Asian people. The Moon is the only solace from the desolace of Earth.
+***** Backstory
+      Similar to The Company, the Chinese Conglomerate has complete control of the surviving Asian peoples since 2142. Their main activities are bargaining with the Afindian Warlords and engineering robot armies and workers. Because of the destruction of their homeland and the death of the planet, the Chinese Conglomerate seeks to explore a new home on the Moon.
 
-**** Influence and Power
-     The Chinese Conglomerate has the world's largest cyborg army. This makes them the country with the strongest military might and scientific technology.
+***** Goals
+      The Chinese Conglomerate just wants to leave Earth. There is nothing left for the Asian people. The Moon is the only solace from the desolace of Earth.
 
-*** The Nomads
+***** Influence and Power
+      The Chinese Conglomerate has the world's largest cyborg army. This makes them the country with the strongest military might and scientific technology.
 
-**** Backstory
-     The Nomads are a rebellion which started in the wake of The Company's rise to power. They wage war on The Company and are the only group in the world that know of their plans. The Nomads commonly use guerilla tactics and subterfuge to slow down The Company's progression. They fly an orange flag with an white phoenix emblem stitched into the center which symbolizes the rebirth of the Earth's civilization and the burning passion of the people who form The Nomads. The Nomads are based in South America, a piece of land untouched by nuclear war. They use stolen stealth boats and ancient drug-smuggling submarines to reach the shores of North America unnoticed; then, they use repurposed retina scanners to identify people who work at The Company.
+**** The Nomads
 
-**** Goals
-     The Nomads want to strike back at The Company for instigating the devastating nuclear war. The Nomads are made up of the group of survivors that were ravaged by The Company. Their sole driving force is to dismantle The Company in pure revenge.
+***** Backstory
+      The Nomads are a rebellion which started in the wake of The Company's rise to power. They wage war on The Company and are the only group in the world that know of their plans. The Nomads commonly use guerilla tactics and subterfuge to slow down The Company's progression. They fly an orange flag with an white phoenix emblem stitched into the center which symbolizes the rebirth of the Earth's civilization and the burning passion of the people who form The Nomads. The Nomads are based in South America, a piece of land untouched by nuclear war. They use stolen stealth boats and ancient drug-smuggling submarines to reach the shores of North America unnoticed; then, they use repurposed retina scanners to identify people who work at The Company.
 
-**** Influence and Power
-     Being a relatively small and rogue operation, The Nomads have little political influence, yet they retain massive through knowledge and stealth. While not being able to connect politically with the other world powers, they still are able to conduct trade and avoid the wrath of The Company.
+***** Goals
+      The Nomads want to strike back at The Company for instigating the devastating nuclear war. The Nomads are made up of the group of survivors that were ravaged by The Company. Their sole driving force is to dismantle The Company in pure revenge.
+
+***** Influence and Power
+      Being a relatively small and rogue operation, The Nomads have little political influence, yet they retain massive through knowledge and stealth. While not being able to connect politically with the other world powers, they still are able to conduct trade and avoid the wrath of The Company.
      
 *** Mittens
    #+CAPTION: Mittens, the Alien Cat.
@@ -130,7 +140,7 @@
 **** Influence and Power
      Because Mittens is a secret alien, not many know of his existence. Only those in the Nomad council know of Mittens because the Area 51 staff were all killed in The Nomad attack. Still, Mittens has great power, despite his weak influence. He has alien telekinetic and telepathic abilities.
 
-* TODO Core Gameplay
+* Core Gameplay
    #+CAPTION: The game state flow chart.
    #+NAME: fig: game-flow
    #+ATTR_LaTeX: :float nil :width 8cm
@@ -141,7 +151,7 @@
    #+ATTR_LaTeX: :float nil :width 8cm
    [[./img/main-menu-1.jpg]]
 
-** TODO Mechanics
+** Mechanics
 *** Menu System
     Upon loading the application, the player will be greeted with the start menu shown in Figure [[fig: start-menu]]. There will be a play button that the player can choose to start playing and a quit button. Then, the player will be shown a character select menu as shown in Figure [[fig: character-select]]. On this screen, the player can choose one of three characters: Axshun Jaxxon, Ben Benson, or Yoki Warrior.
 
@@ -193,19 +203,14 @@
 
      - Yoki Warrior will join the Nomads.
 
-** TODO Goals
-   - Players win the game if they manage to escape the scenario within an hour.
-   - After winning, an expository paragraph will be shown to the player to describe what happens following the escape.
-   - Players lose if time expires.
-   - After losing, an expository paragraph will be shown to the player to describe what happens to them after their escape fails.
      
-** TODO Hints
-   - Mittens can give the player several types of hints after the player answers a riddle.
-     * *Remove Decoys*: Remove all or some of the decoys in the room.
-     * *Puzzle Explanation*: Explain part of a puzzle to make it easier for the player to solve.
-     * *Answer Location*: Place a glow on an object required for a puzzle.
+** Hints
+   Mittens can give the player several types of hints after the player answers a riddle.
+     1. *Remove Decoys*: Remove all or some of the decoys in the room.
+     2. *Puzzle Explanation*: Explain part of a puzzle to make it easier for the player to solve.
+     3. *Answer Location*: Place a glow on an object required for a puzzle.
 
-* TODO Puzzle Types
+* Puzzle Types
 ** Acrostic
    There will be two pages appearing in the room for this puzzle. The first page contains clue phrases that, when answered, provide a mapping of letters to numbers (See Figure [[fig: acrostic-1]]). The second page has a series of blank spaces and numbers (See Figure [[fig: acrostic-2]]) that make a sentence when the mapping from page 1 is applied (See Figure [[fig: acrostic-3]]). The results of this puzzle will be a number for the key or a hint for another puzzle.
 
@@ -232,22 +237,56 @@
    #+ATTR_LaTeX: :float nil
    [[./img/pt-rc-001.png]]
 
-** TODO Block and Key
+** Block and Key
+
+   #+CAPTION: Block and key example.
+   #+NAME: fig: blockandkey
+   #+ATTR_LaTeX: :float nil
+   [[./img/blockandkey.png]]
+
     There will be six *1 foot* cubes spread across the room. The player will need to place and orient these blocks on a pedestal to create an image by aligning the engravings on each cube. The opposite side of the cube array will then reveal an answer required to escape the room.
+    
+** Cryptogram
 
-** TODO Cryptogram
-    Encrypted messages that need to be put through a cipher in order to be easily read.
+   #+CAPTION: Example of a cryptogram.
+   #+NAME: fig: cryptogram
+   #+ATTR_LaTeX: :float nil
+   [[./img/cryptogram.png]]
 
-** TODO Connect the Dots
+   A cryptogram is a puzzle that consists of a short piece of encrypted text. Generally the cipher used to encrypt the text is simple enough that that the cryptogram can be solved by hand. Frequently used are substitution ciphers where each letter is replaced by a different letter or number. To solve the puzzle, one must recover the original lettering.
+
+** Connect the Dots
+
+   #+CAPTION: Example of a connect the dots.
+   #+NAME: fig: connect
+   #+ATTR_LaTeX: :float nil
+   [[./img/connect.png]]
+
     Images drawn may be of other objects in the room. Different shaped dots (e.g. square vs. circle) will connect to make different images. A key will be placed in the room to indicate which dots make the correct image.
     
-** TODO Statues/Totems
+** Statues/Totems
+
+   #+CAPTION: Example of a totem puzzle.
+   #+NAME: fig: totem
+   #+ATTR_LaTeX: :float nil
+   [[./img/totem.png]]
+
    *3-4* statues or obelisks with images need to be positioned in a particular way to unlock an answer. There will be an image, that may or may not be the result of the solution of another puzzle, depicting how to orient the statues around the room.
 
-* TODO References
+\pagebreak
+
+* References
   * [[https://en.wikipedia.org/wiki/Acrostic_(puzzle)][Acrostic]] - Wikipedia entry.
   * [[https://en.wikipedia.org/wiki/Cryptogram][Cryptogram]] - Wikipedia entry.
   * [[http://www.bloodandbones.com/ph12sim/types.htm][Puzzle Idea List]] - A list of puzzle ideas.
   * [[http://www.accelerated-ideas.com/news/uncharted-4-chapter-1-2-puzzle-solution-rotating-balls.aspx][Rotating balls and Symbols]] - A description of the rotating balls and symbols puzzle from Uncharted 4.
   * [[http://www.gameshampoo.com/magazine/articles/24/uncharted-3-all-puzzle-solutions.html][Uncharted 3 All Puzzles]] - All of the puzzles in Uncharted 3.
-    
+  * [[http://www.imgrum.org/media/1023891329744782117_1530550655][Axshun Jaxxon]] - Axshun Jaxxon's Head.
+  * [[https://s-media-cache-ak0.pinimg.com/originals/14/52/4c/14524cd75630c87f04407c2113094535.jpg][Axshun Jaxxon]] - Axshun Jaxxon's Body.
+  * [[http://www.disneystoryoriginspodcast.com/wp-content/uploads/2013/11/pocahontas1.jpg][Pocahontas]] - Yoki Warrior's Body.
+  * [[http://vignette2.wikia.nocookie.net/teentitans/images/2/2a/Cyborg-teen-titans-9542604-1024-768.jpg/revision/latest?cb=20120115083426][Cyborg]] - Yoki Warrior's Arm and Eye.
+  * [[https://cdn2.content.compendiumblog.com/uploads/user/2c9b66c6-7b80-4006-afb9-8204439bca12/60041788-356f-4b71-b236-b0b9c78f8f0d/Image/dc62e65ec149fb09ea2446f1560db77c/71__of_earths_surface_kevin_m__gill__flikr.jpg][Earth]] - Base image for Earth.
+  * [[http://img-2.newatlas.com/microsoft-hololens.jpg?auto=format%2Ccompress&ch=Width%2CDPR&crop=entropy&fit=crop&h=347&q=60&w=616&s=63631a238d01aeb6b842d3c31b3898eb][HoloLens]] - Base image for menu selection.
+  * [[https://img.clipartfest.com/b7559eb47d8ee1fe0e3831da8005a24a_-vehicles-for-businessman-clipart-of-a-businessman-silhouette_1080-1080.jpeg][The Company]] - The company anonymous figures.
+  * [[https://cdn.dottodots.net/samples/Cat_7_Dot-To-Dot.png][Connect]] - Connect the dots.
+  * [[https://gaming.stackexchange.com/questions/34061/whats-the-right-position-of-each-of-the-armors-in-the-chateau][Totems]] - Totem puzzle.
